@@ -1,4 +1,5 @@
-![KIPerWeb bringt KI und Weiterbildung zusammen](src/kiperweb_banner.png|width="200")
+<img src="src/kiperweb_banner.png" alt="KIPerWeb bringt KI und Weiterbildung zusammen" style="width:80%;"/>
+
 # KIPerWeb
 Das Projekt ["KI-gestützte Personalisierung in der berufsbezogenen Weiterbildung (KIPerWeb)"](https://www.f-bb.de/unsere-arbeit/projekte/ki-gestuetzte-personalisierung-in-der-berufsbezogenen-weiterbildung-kiperweb/) hat zwischen 01.05.2021 und 30.04.2024 das Potenzial von KI-Technologien für die personalisierte und adaptive berufsbezogene Weiterbildung untersucht und einen regelmäßigen Austausch mit Expertinnen und Experten aus Wissenschaft und Praxis angestoßen der projektübergreifend den Stand der Kunst reflektierte und vorantrieb.
 
@@ -7,19 +8,19 @@ Am 19.04.2024 fand die [KIPerWeb Abschlusstagung](https://www.f-bb.de/unsere-arb
 Das [Tagungsprogramm](https://www.f-bb.de/fileadmin/Projekte/KIP/KIPerWeb-Abschlusstagung_Programm.pdf) umfasste folgende Beiträge:
 
 - Pfeiffer, I. (2024). Begrüßung. [[Download]](src/Abschlusstagung/Pfeiffer_2024.pdf)
-- Fischer., A. (2024). KI in der berufsbezogenen Weiterbildung - Möglichkeiten im Überblick. [[Download]](src/Abschlusstagung/Fischer_2024.pdf)
-- Schley, T. & Paaßen, B. (2024) Projektvorstellung KIPerWeb. [[Download]](src/Abschlusstagung/Schley_Paaßen_2024.pdf)
+- Fischer., A. (2024). KI in der berufsbezogenen Weiterbildung - Möglichkeiten im Überblick. [[Slides]](src/Abschlusstagung/Fischer_2024.pdf)
+- Schley, T. & Paaßen, B. (2024) Projektvorstellung KIPerWeb. [[Slides]](src/Abschlusstagung/Schley_Paaßen_2024.pdf)
 - Weber, M. (2024). Vom LMS zur LXP. [[Download]](src/Abschlusstagung/Weber_2024.pdf)
-- Haselmann, R. (2024). KI Anstze in Lernmanagementsystemen. [[Download]](src/Abschlusstagung/Haselmann_2024.pdf)
-- Junghans, K., (2024). Kursempfehlungen vom Chatbot. [[Download]](src/Abschlusstagung/Junghans_2024.pdf)
-- Fleckenstein, M. & Präsin, B. (2024). Wissenszuwachsvorhersage - sinnvolle Einsatzfelder. [[Download]](src/Abschlusstagung/Fleckenstein_Prästin_2024.pdf)
-- Wittke, A., & Hürten, P. (2024). Der KI Competence Analyser : Innovative Lösung zur Kompetenzerfassung und anerkennung. [[Download]](src/Abschlusstagung/Wittke_Hürten_2024.pdf)
-- Herkula, H., Jäser, K., Michalk, S., Karaguiozian, D. (2024). Ethische Überlegungen zu Künstlicher Intelligenz als Werkzeug innerhalb der Weiterbildung. [[Download]](src/Abschlusstagung/Herkula_2024.pdf)
+- Haselmann, R. (2024). KI Anstze in Lernmanagementsystemen. [[Slides]](src/Abschlusstagung/Haselmann_2024.pdf)
+- Junghans, K., (2024). Kursempfehlungen vom Chatbot. [[Slides]](src/Abschlusstagung/Junghans_2024.pdf)
+- Fleckenstein, M. & Präsin, B. (2024). Wissenszuwachsvorhersage - sinnvolle Einsatzfelder. [[Slides]](src/Abschlusstagung/Fleckenstein_Prästin_2024.pdf)
+- Wittke, A., & Hürten, P. (2024). Der KI Competence Analyser : Innovative Lösung zur Kompetenzerfassung und anerkennung. [[Slides]](src/Abschlusstagung/Wittke_Hürten_2024.pdf)
+- Herkula, H., Jäser, K., Michalk, S., Karaguiozian, D. (2024). Ethische Überlegungen zu Künstlicher Intelligenz als Werkzeug innerhalb der Weiterbildung. [[Slides]](src/Abschlusstagung/Herkula_2024.pdf)
 - Rasch, J. (2024). Skill-basierte Multi Stakeholder Recommender Systeme für die berufliche Weiterbildung.
 - Lichtenberg, T. & Dittmann, P. (2024). Digitale Avatare und LLMs im Live Streaming.
-- Lorenz, S. (2024). Abschluss und Fazit [[Download]](src/Abschlusstagung/Lorenz_2024.pdf)
+- Lorenz, S. (2024). Abschluss und Fazit [[Slides]](src/Abschlusstagung/Lorenz_2024.pdf)
 
-Die vorliegenden Folien zur Tagung (im PDF-Format) können Sie auch gesammelt [hier](src/Abschlusstagung/Slides_Abschlusstagung.zip) herunterladen.
+Die vorliegenden Folien zur Tagung (im PDF-Format) können Sie auch gesammelt [hier](https://github.com/AndreasFischer1985/KIPerWeb/raw/main/src/Abschlusstagung/Slides_Abschlusstagung.zip) herunterladen.
 
 ## Publikationen
 
