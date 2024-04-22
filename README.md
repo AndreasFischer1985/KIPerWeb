@@ -6,7 +6,7 @@ Das Projekt ["KI-gestützte Personalisierung in der berufsbezogenen Weiterbildun
 Wenn Sie an einem offenen Austausch zum Thema interessiert sind, wenden Sie sich gerne an Dr. Andreas Fischer (andreas.fischer@f-bb.de) oder an das KIPerWeb-Team (KIPerWeb@f-bb.de)!
 
 ## KIPerWeb Abschlusstagung "KI-gestützte Personalisierung in der berufsbezogenen Weiterbildung"
-Am 19.04.2024 fand die [KIPerWeb Abschlusstagung](https://www.f-bb.de/unsere-arbeit/veranstaltungen/abschlusstagung-des-projekts-ki-gestuetzte-personalisierung-in-der-berufsbezogenen-weiterbildung/) statt. Im Rahmen von Fachbeiträgen aus dem Projekt und aus weiteren Projekten des Innovationswettbewerb konnten aktuelle Erkenntnisse zur KI-gestützten Personalisierung in der berufsbezogenen Weiterbildung in einen größeren Zusammenhang gestellt und reflektiert werden.
+Am 19.04.2024 fand die [KIPerWeb Abschlusstagung](https://www.f-bb.de/unsere-arbeit/veranstaltungen/abschlusstagung-des-projekts-ki-gestuetzte-personalisierung-in-der-berufsbezogenen-weiterbildung/) statt, organisiert vom Forschungsinstitut Betriebliche Bildung (f-bb). Im Rahmen von Fachbeiträgen aus dem Projekt und aus weiteren Projekten des Innovationswettbewerb konnten aktuelle Erkenntnisse zur KI-gestützten Personalisierung in der berufsbezogenen Weiterbildung in einen größeren Zusammenhang gestellt und reflektiert werden.
 Das [Tagungsprogramm](https://www.f-bb.de/fileadmin/Projekte/KIP/KIPerWeb-Abschlusstagung_Programm.pdf) umfasste folgende Beiträge:
 
 - Pfeiffer, I. (2024). Begrüßung. [[PDF]](src/Abschlusstagung/Pfeiffer_2024.pdf)
