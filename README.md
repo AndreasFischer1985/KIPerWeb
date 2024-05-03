@@ -12,7 +12,9 @@ Sitzung | Datum | Thema
 2   | 17.05.24 | Substituierbarkeitspotenziale - KI und die Arbeit von morgen
 3   | 31.05.24 | \*tba\*
 
+
 ## Projekt KIPerWeb
+
 ### Projekt-Tagung "KI-gestützte Personalisierung in der berufsbezogenen Weiterbildung"
 Am 19.04.2024 fand die [Abschlusstagung zum *Projekt* KIPerWeb](https://www.f-bb.de/unsere-arbeit/veranstaltungen/abschlusstagung-des-projekts-ki-gestuetzte-personalisierung-in-der-berufsbezogenen-weiterbildung/) statt, organisiert vom Forschungsinstitut Betriebliche Bildung (f-bb). Im Rahmen von Fachbeiträgen aus dem Projekt und aus weiteren Projekten des Innovationswettbewerb konnten aktuelle Erkenntnisse zur KI-gestützten Personalisierung in der berufsbezogenen Weiterbildung in einen größeren Zusammenhang gestellt und reflektiert werden.
 Das [Tagungsprogramm](https://www.f-bb.de/fileadmin/Projekte/KIP/KIPerWeb-Abschlusstagung_Programm.pdf) umfasste folgende Beiträge:
@@ -51,3 +53,8 @@ Die vorliegenden Folien zur Tagung (im PDF-Format) können Sie auch gesammelt [h
 - Pabst, C., Lorenz, S. (2022): Smarte Empfehlungen für personalisiertes Lernen. Künstliche Intelligenz in der berufsbezogenen Weiterbildung. f-bb Infoforum  04/2022. https://www.f-bb.de/newsletter-042022/smarte-empfehlungen-fuer-personalisiertes-lernen/ 
 
 - Palomino, A., Fischer, A., Kuzilek, J., Nitsch, J., Pinkwart, N., Paaßen, B. (accepted). EdTec-QBuilder: A Semantic Retrieval Tool for Assembling Vocational Training Exams in German Language. NAACL 2024 -- Demo Track.
+
+### KIPerWeb-Prototypen
+Prototypen für die KI-gestützte Kursempfehlung hat das DIPF im Rahmen des Projekts KIPerWeb online unter der Lizenz Apache 2.0 veröffentlicht:
+- https://github.com/DFKI/kiprec
+- https://github.com/DFKI/kip-deploy
