@@ -9,7 +9,8 @@ Seit 01.05.2024 wird der regelmäßige informelle und offene Austausch zu aktuel
 Sitzung | Datum | Thema
 -------- | -------- | --------
 1   | 03.05.24   | Potenziale von KI für die Berufs- und Studienorientierung
-2   | 17.05.24 | \*tba\*
+2   | 17.05.24 | Substituierbarkeitspotenziale - KI und die Arbeit von morgen
+3   | 31.05.24 | \*tba\*
 
 ## Projekt KIPerWeb
 ### Projekt-Tagung "KI-gestützte Personalisierung in der berufsbezogenen Weiterbildung"
