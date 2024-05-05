@@ -10,7 +10,10 @@ Sitzung | Datum | Thema
 -------- | -------- | --------
 1   | 03.05.24   | Potenziale von KI für die Berufs- und Studienorientierung
 2   | 17.05.24 | Substituierbarkeitspotenziale - KI und die Arbeit von morgen
-3   | 31.05.24 | \*tba\*
+3   | 31.05.24 | Praktische Prompts für den Arbeitsalltag
+3   | 14.06.24 | \*tba\*
+
+<sup><sub>**Themenspeicher für künftige Sitzungen:** "Persönliche KI-Assistenten lokal und on-premises betreiben", "LLM-Chatbots & Web-Search-Augmented Generation", "Wie gestalte ich LLM-Chatbots rechtssicher und praxistauglich?", "Tools für die effiziente Gestaltung von RAG-Pipelines", "KI-Tagebuch - Tipps für Aufnahme, Transkription und Auswertung?", "Implikationen des EU-AI-Act für KI in der Bildungspraxis", "KI & Urheberrecht - Stand der Dinge und absehbare Entwicklungen"</sub></sup>
 
 
 ## Projekt KIPerWeb
