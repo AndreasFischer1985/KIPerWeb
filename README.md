@@ -13,7 +13,7 @@ Sitzung | Datum | Thema
 3   | 31.05.24 | Praktische Prompts für den Arbeitsalltag
 3   | 14.06.24 | \*tba\*
 
-<sup><sub>**Themenspeicher für künftige Sitzungen:** "Persönliche KI-Assistenten lokal und on-premises betreiben", "LLM-Chatbots & Web-Search-Augmented Generation", "Wie gestalte ich LLM-Chatbots rechtssicher und praxistauglich?", "Tools für die effiziente Gestaltung von RAG-Pipelines", "KI-Tagebuch - Tipps für Aufnahme, Transkription und Auswertung?", "Implikationen des EU-AI-Act für KI in der Bildungspraxis", "KI & Urheberrecht - Stand der Dinge und absehbare Entwicklungen"</sub></sup>
+<sup><sub>**Themenspeicher für künftige Sitzungen:** "Persönliche KI-Assistenten lokal und on-premises betreiben", "LLM-Chatbots & Web-Search-Augmented Generation", "Wie gestalte ich LLM-Chatbots rechtssicher und praxistauglich?", "Tools für die effiziente Gestaltung von RAG-Pipelines", "KI-Tagebuch - Tipps für Aufnahme, Transkription und Auswertung?", "Implikationen des EU-AI-Act für KI in der Bildungspraxis", "KI & Urheberrecht - Stand der Dinge und absehbare Entwicklungen", "KI und Nachhaltigkeit - ökologisch, ökonomisch & sozial" </sub></sup>
 
 
 ## Projekt KIPerWeb
