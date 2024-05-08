@@ -26,7 +26,7 @@ Das [Tagungsprogramm](https://www.f-bb.de/fileadmin/Projekte/KIP/KIPerWeb-Abschl
 - Fischer., A. (2024). KI in der berufsbezogenen Weiterbildung - Möglichkeiten im Überblick. [[PDF]](src/Abschlusstagung/Fischer_2024.pdf)
 - Schley, T. & Paaßen, B. (2024) Projektvorstellung KIPerWeb. [[PDF]](src/Abschlusstagung/Schley_Paaßen_2024.pdf)
 - Weber, M. (2024). Vom LMS zur LXP. [[PDF]](src/Abschlusstagung/Weber_2024.pdf)
-- Haselmann, R. (2024). KI Anstze in Lernmanagementsystemen. [[PDF]](src/Abschlusstagung/Haselmann_2024.pdf)
+- Haselmann, R. (2024). KI Ansätze in Lernmanagementsystemen. [[PDF]](src/Abschlusstagung/Haselmann_2024.pdf)
 - Junghans, K., (2024). Kursempfehlungen vom Chatbot. [[PDF]](src/Abschlusstagung/Junghans_2024.pdf)
 - Fleckenstein, M. & Prästin, B. (2024). Wissenszuwachsvorhersage - sinnvolle Einsatzfelder. [[PDF]](src/Abschlusstagung/Fleckenstein_Prästin_2024.pdf)
 - Wittke, A., & Hürten, P. (2024). Der KI Competence Analyser : Innovative Lösung zur Kompetenzerfassung und anerkennung. [[PDF]](src/Abschlusstagung/Wittke_Hürten_2024.pdf)
