@@ -58,6 +58,6 @@ Die vorliegenden Folien zur Tagung (im PDF-Format) können Sie auch gesammelt [h
 - Palomino, A., Fischer, A., Kuzilek, J., Nitsch, J., Pinkwart, N., Paaßen, B. (accepted). EdTec-QBuilder: A Semantic Retrieval Tool for Assembling Vocational Training Exams in German Language. NAACL 2024 -- Demo Track.
 
 ### KIPerWeb-Prototypen
-Prototypen für die KI-gestützte Kursempfehlung hat das DIPF im Rahmen des Projekts KIPerWeb online unter der Lizenz Apache 2.0 veröffentlicht:
+Prototypen für die KI-gestützte Kursempfehlung hat das DFKI im Rahmen des Projekts KIPerWeb online unter der Lizenz Apache 2.0 veröffentlicht:
 - https://github.com/DFKI/kiprec
 - https://github.com/DFKI/kip-deploy
