@@ -57,7 +57,7 @@ Die vorliegenden Folien zur Tagung (im PDF-Format) können Sie auch gesammelt [h
 
 - Pabst, C., Lorenz, S. (2022): Smarte Empfehlungen für personalisiertes Lernen. Künstliche Intelligenz in der berufsbezogenen Weiterbildung. f-bb Infoforum  04/2022. https://www.f-bb.de/newsletter-042022/smarte-empfehlungen-fuer-personalisiertes-lernen/ 
 
-- Palomino, A., Fischer, A., Kuzilek, J., Nitsch, J., Pinkwart, N., Paaßen, B. (accepted). EdTec-QBuilder: A Semantic Retrieval Tool for Assembling Vocational Training Exams in German Language. NAACL 2024 -- Demo Track.
+- Palomino, A., Fischer, A., Kuzilek, J., Nitsch, J., Pinkwart, N., Paaßen, B. (accepted). EdTec-QBuilder: A Semantic Retrieval Tool for Assembling Vocational Training Exams in German Language. NAACL 2024 -- Demo Track. https://2024.naacl.org/program/accepted_papers_demo/
 
 ### KIPerWeb-Prototypen
 Prototypen für die KI-gestützte Kursempfehlung hat das DFKI im Rahmen des Projekts KIPerWeb online unter der Lizenz Apache 2.0 veröffentlicht:
