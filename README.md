@@ -15,7 +15,7 @@ Sitzung | Datum | Thema
 3   | 31.05.24 | Schreibassistenz KI - praktische Prompts und Tipps für den Arbeitsalltag
 4   | 14.06.24 | HuggingChat Tools und wie man sie in eigene Chatbots einbindet
 5   | 28.06.24 | Knowledge Graphs & Retrieval-Augmented Generation 
-6   | 12.07.24 | AI Literacy - was fällt darunter und was geht darüber hinaus?
+6   | 12.07.24 | AI Literacy & KI-Kompetenz - was versteht man darunter, was geht darüber hinaus?
 7   | 26.07.24 | \*tba\*
 
 
