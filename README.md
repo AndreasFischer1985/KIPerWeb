@@ -15,11 +15,11 @@ Sitzung | Datum | Thema
 3   | 31.05.24 | Schreibassistenz KI - praktische Prompts und Tipps für den Arbeitsalltag
 4   | 14.06.24 | HuggingChat Tools und wie man sie in eigene Chatbots einbindet
 5   | 28.06.24 | Knowledge Graphs & Retrieval-Augmented Generation 
-6   | 12.07.24 | AI Literacy & KI-Kompetenz - was versteht man darunter, was geht darüber hinaus?
+6   | 12.07.24 | Chatbots mit Large Language Models realisieren - Varianten & Best Practice
 7   | 26.07.24 | \*tba\*
 
 
-<sup><sub>**Themenspeicher für künftige Sitzungen:** "Persönliche KI-Assistenten lokal und on-premises betreiben", "LLM-Chatbots & Web-Search-Augmented Generation", "Wie gestalte ich LLM-Chatbots rechtssicher und praxistauglich?", "Tools für die effiziente Gestaltung von RAG-Pipelines", "KI-Tagebuch - Tipps für Aufnahme, Transkription und Auswertung?", "Implikationen des EU-AI-Act für KI in der Bildungspraxis", "KI & Urheberrecht - Stand der Dinge und absehbare Entwicklungen", "KI und Nachhaltigkeit - ökologisch, ökonomisch & sozial" </sub></sup>
+<sup><sub>**Themenspeicher für künftige Sitzungen:** "Persönliche KI-Assistenten lokal und on-premises betreiben", "LLM-Chatbots & Web-Search-Augmented Generation", "Wie gestalte ich LLM-Chatbots rechtssicher und praxistauglich?", "Tools für die effiziente Gestaltung von RAG-Pipelines", "KI-Tagebuch - Tipps für Aufnahme, Transkription und Auswertung?", "Implikationen des EU-AI-Act für KI in der Bildungspraxis", "KI & Urheberrecht - Stand der Dinge und absehbare Entwicklungen", "KI und Nachhaltigkeit - ökologisch, ökonomisch & sozial", "AI Literacy und verwandte Konstrukte" </sub></sup>
 
 
 ## Projekt KIPerWeb
