@@ -14,8 +14,8 @@ Sitzung | Datum | Thema
 2   | 17.05.24 | Substituierbarkeitspotenziale - KI und die Arbeit von morgen
 3   | 31.05.24 | Schreibassistenz KI - praktische Prompts und Tipps für den Arbeitsalltag
 4   | 14.06.24 | HuggingChat Tools und wie man sie in eigene Chatbots einbindet
-5   | 28.06.24 | Knowledge Graphs & Retrieval-Augmented Generation 
-6   | 12.07.24 | Chatbots mit Large Language Models realisieren - Varianten & Best Practice
+5   | 28.06.24 | Chatbots mit Large Language Models realisieren - Varianten & Best Practice 
+6   | 12.07.24 | Knowledge Graphs & Retrieval-Augmented Generation
 7   | 26.07.24 | \*tba\*
 
 
