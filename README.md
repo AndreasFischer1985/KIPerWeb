@@ -8,6 +8,7 @@ Das ursprüngliche *Projekt* ["KI-gestützte Personalisierung in der berufsbezog
 ## CoP KIPerWeb
 Seit 01.05.2024 wird der regelmäßige informelle und offene Austausch zu aktuellen KI-bezogenen Fragestellungen ehrenamtlich weitergeführt im Sinne einer *Community of Praxis zur digital souveränen Nutzung und Entwicklung KI-gestützter Webanwendungen* (CoP KIPerWeb). Bis auf weiteres finden Sitzungen der *CoP KIPerWeb* jeden zweiten Freitag 10-11h online statt. Sollten Sie Interesse haben, Teil dieser informellen und v.a. offenen KIPerWeb-Austauschrunde von Expertinnen und Experten aus Wissenschaft und Praxis zu werden, wenden Sie sich für die Zugangsdaten gerne an Dr. Andreas Fischer (andreas.fischer@f-bb.de)! Sollten Sie Themenvorschläge für künftige Sitzungen einbringen wollen, können Sie diese ebenfalls per E-Mail oder direkt auf GitHub via Pull-Request einbringen. Informationen zu den Terminen und Inhalten der Austauschrunde können Sie der folgenden Tabelle entnehmen.
 
+### Termine
 Sitzung | Datum | Thema
 -------- | -------- | --------
 1   | 03.05.24   | Potenziale von KI für die Berufs- und Studienorientierung
