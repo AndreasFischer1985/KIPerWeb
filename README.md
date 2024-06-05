@@ -3,22 +3,23 @@
 # KIPerWeb
 Sie sind Bildungsanbieter und wollen mit KI ihre (Weiter-)Bildungsangebote personalisieren? Sie sind Entwickler und wollen ihre KI weiterbilden? Oder sind Sie selbst auf der Suche nach Weiterbildung zu KI-bezogenen Fragestellungen? Dann sind Sie hier genau richtig!
 
-Das ursprüngliche *Projekt* ["KI-gestützte Personalisierung in der berufsbezogenen Weiterbildung (KIPerWeb)"](https://www.f-bb.de/unsere-arbeit/projekte/ki-gestuetzte-personalisierung-in-der-berufsbezogenen-weiterbildung-kiperweb/) hat zwischen 01.05.2021 und 30.04.2024 das Potenzial von KI-Technologien für die personalisierte und adaptive berufsbezogene Weiterbildung untersucht und einen regelmäßigen Austausch mit Expertinnen und Experten aus Wissenschaft und Praxis angestoßen, der seitdem projektübergreifend den Stand der Kunst reflektiert und vorantreibt. Dieser Austausch zu aktuellen KI-bezogenen Fragestellungen wird seit dem 01.05.24 ehrenamtlich im Sinne einer offenen Community of Practice (*CoP KIPerWeb*) fortgeführt.
+Das ursprüngliche *Projekt* ["KI-gestützte Personalisierung in der berufsbezogenen Weiterbildung (KIPerWeb)"](https://www.f-bb.de/unsere-arbeit/projekte/ki-gestuetzte-personalisierung-in-der-berufsbezogenen-weiterbildung-kiperweb/) hat zwischen 01.05.2021 und 30.04.2024 das Potenzial von KI-Technologien für die personalisierte und adaptive berufsbezogene Weiterbildung untersucht und einen regelmäßigen Austausch mit Expertinnen und Experten aus Wissenschaft und Praxis angestoßen, der seitdem projektübergreifend den Stand der Kunst reflektiert und vorantreibt. Dieser Austausch zu aktuellen KI-bezogenen Fragestellungen wird seit dem 01.05.24 ehrenamtlich im Sinne einer offenen Community of Practice ([#CoP_KIPerWeb](https://www.linkedin.com/groups/13044662)) fortgeführt.
 
 ## CoP KIPerWeb
-Seit 01.05.2024 wird der regelmäßige informelle und offene Austausch zu aktuellen KI-bezogenen Fragestellungen ehrenamtlich weitergeführt im Sinne einer *Community of Praxis zur digital souveränen Nutzung und Entwicklung KI-gestützter Webanwendungen* (CoP KIPerWeb). Bis auf weiteres finden Sitzungen der *CoP KIPerWeb* jeden zweiten Freitag 10-11h online statt. Sollten Sie Interesse haben, Teil dieser informellen und v.a. offenen KIPerWeb-Austauschrunde von Expertinnen und Experten aus Wissenschaft und Praxis zu werden, wenden Sie sich für die Zugangsdaten gerne an Dr. Andreas Fischer (andreas.fischer@f-bb.de)! Sollten Sie Themenvorschläge für künftige Sitzungen einbringen wollen, können Sie diese ebenfalls per E-Mail oder direkt auf GitHub via Pull-Request einbringen. Informationen zu den Terminen und Inhalten der Austauschrunde können Sie der folgenden Tabelle entnehmen.
+Seit 01.05.2024 wird der regelmäßige informelle und offene Austausch zu aktuellen KI-bezogenen Fragestellungen ehrenamtlich weitergeführt im Sinne einer *Community of Praxis zur digital souveränen Nutzung und Entwicklung KI-gestützter Webanwendungen* (CoP KIPerWeb). Bis auf weiteres finden Sitzungen der *CoP KIPerWeb* jeden zweiten Freitag 10-11h online statt (Zugangsdaten auf Anfrage) sowie in sozialen Netzwerken, insb. auf LinkedIn unter dem Hashtag sowie in der Gruppe [#CoP_KIPerWeb](https://www.linkedin.com/groups/13044662). Sollten Sie Interesse haben, Teil dieser informellen und v.a. offenen KIPerWeb-Austauschrunde von Expertinnen und Experten aus Wissenschaft und Praxis zu werden, wenden Sie sich gerne an Dr. Andreas Fischer (andreas.fischer@f-bb.de)! 
+Sollten Sie Themenvorschläge für künftige Sitzungen einbringen wollen, können Sie diese ebenfalls über soziale Netzwerke, per E-Mail oder direkt auf GitHub via Pull-Request einbringen. 
+Informationen zu den Terminen und Inhalten der Austauschrunde können Sie der folgenden Tabelle entnehmen:
 
 ### Termine
 Sitzung | Datum | Thema
 -------- | -------- | --------
-1   | 03.05.24   | Potenziale von KI für die Berufs- und Studienorientierung
-2   | 17.05.24 | Substituierbarkeitspotenziale - KI und die Arbeit von morgen
-3   | 31.05.24 | Schreibassistenz KI - praktische Prompts und Tipps für den Arbeitsalltag
+1   | 03.05.24   | Potenziale von KI für die Berufs- und Studienorientierung [[PDF]](cop/slides/240503-1-CoP_KIPerWeb.pdf)
+2   | 17.05.24 | Substituierbarkeitspotenziale - KI und die Arbeit von morgen [[PDF]](cop/slides/240517-2-CoP_KIPerWeb.pdf)
+3   | 31.05.24 | Schreibassistenz KI - praktische Prompts und Tipps für den Arbeitsalltag [[PDF]](cop/slides/240531-3-CoP_KIPerWeb.pdf)
 4   | 14.06.24 | HuggingChat Tools und wie man sie in eigene Chatbots einbindet
 5   | 28.06.24 | Chatbots mit Large Language Models realisieren - Varianten & Best Practice 
 6   | 12.07.24 | Knowledge Graphs & Retrieval-Augmented Generation
 7   | 26.07.24 | \*tba\*
-
 
 <sup><sub>**Themenspeicher für künftige Sitzungen:** "Persönliche KI-Assistenten lokal und on-premises betreiben", "LLM-Chatbots & Web-Search-Augmented Generation", "Wie gestalte ich LLM-Chatbots rechtssicher und praxistauglich?", "Tools für die effiziente Gestaltung von RAG-Pipelines", "KI-Tagebuch - Tipps für Aufnahme, Transkription und Auswertung?", "Implikationen des EU-AI-Act für KI in der Bildungspraxis", "KI & Urheberrecht - Stand der Dinge und absehbare Entwicklungen", "KI und Nachhaltigkeit - ökologisch, ökonomisch & sozial", "AI Literacy und verwandte Konstrukte" </sub></sup>
 
