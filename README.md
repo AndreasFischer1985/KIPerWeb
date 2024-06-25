@@ -1,7 +1,7 @@
 <img src="src/kiperweb_banner.png" alt="KIPerWeb bringt KI und Weiterbildung zusammen" style="width:100%;"/>
 
 # KIPerWeb
-Sie sind Bildungsanbieter und wollen mit KI ihre (Weiter-)Bildungsangebote personalisieren? Sie sind Entwickler und wollen ihre KI weiterbilden? Oder sind Sie selbst auf der Suche nach Weiterbildung zu KI-bezogenen Fragestellungen? Dann sind Sie hier genau richtig!
+Sie sind Bildungsanbieter und wollen mit KI ihre (Weiter-)Bildungsangebote optimieren? Sie sind Entwickler und wollen ihre KI weiterbilden? Oder sind Sie selbst auf der Suche nach Weiterbildung zu KI-bezogenen Fragestellungen? Dann sind Sie hier genau richtig!
 
 Das ursprüngliche *Projekt* ["KI-gestützte Personalisierung in der berufsbezogenen Weiterbildung (KIPerWeb)"](https://www.f-bb.de/unsere-arbeit/projekte/ki-gestuetzte-personalisierung-in-der-berufsbezogenen-weiterbildung-kiperweb/) hat zwischen 01.05.2021 und 30.04.2024 das Potenzial von KI-Technologien für die personalisierte und adaptive berufsbezogene Weiterbildung untersucht und einen regelmäßigen Austausch mit Expertinnen und Experten aus Wissenschaft und Praxis angestoßen, der seitdem projektübergreifend den Stand der Kunst reflektiert und vorantreibt. Dieser Austausch zu aktuellen KI-bezogenen Fragestellungen wird seit dem 01.05.24 ehrenamtlich im Sinne einer offenen Community of Practice ([#CoP_KIPerWeb](https://www.linkedin.com/groups/13044662)) fortgeführt.
 
