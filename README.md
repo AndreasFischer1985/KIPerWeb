@@ -13,13 +13,17 @@ Informationen zu den Terminen und Inhalten der Austauschrunde können Sie der fo
 ### Termine
 Sitzung | Datum | Thema
 -------- | -------- | --------
-1   | 03.05.24   | Potenziale von KI für die Berufs- und Studienorientierung [[PDF]](cop/slides/240503-1-CoP_KIPerWeb.pdf)
-2   | 17.05.24 | Substituierbarkeitspotenziale - KI und die Arbeit von morgen [[PDF]](cop/slides/240517-2-CoP_KIPerWeb.pdf)
-3   | 31.05.24 | Schreibassistenz KI - praktische Prompts und Tipps für den Arbeitsalltag [[PDF]](cop/slides/240531-3-CoP_KIPerWeb.pdf)
-4   | 14.06.24 | HuggingChat Tools und wie man sie in eigene Chatbots einbindet
-5   | 28.06.24 | Chatbots mit Large Language Models realisieren - Varianten & Best Practice 
-6   | 12.07.24 | Knowledge Graphs & Retrieval-Augmented Generation
-7   | 26.07.24 | \*tba\*
+1   | 03.05.24   | "Potenziale von KI für die Berufs- und Studienorientierung" [[PDF]](cop/slides/240503-1-CoP_KIPerWeb.pdf)
+2   | 17.05.24 | "Substituierbarkeitspotenziale - KI und die Arbeit von morgen" [[PDF]](cop/slides/240517-2-CoP_KIPerWeb.pdf)
+3   | 31.05.24 | "Schreibassistenz KI - praktische Prompts und Tipps für den Arbeitsalltag" [[PDF]](cop/slides/240531-3-CoP_KIPerWeb.pdf)
+4   | 14.06.24 | "HuggingChat Tools und wie man sie in eigene Chatbots einbindet" [[PDF]](cop/slides/240614-4-CoP_KIPerWeb.pdf)
+5   | 28.06.24 | "Chatbots mit Large Language Models realisieren - Varianten & Best Practice"  [[PDF]](cop/slides/240628-5-CoP_KIPerWeb.pdf)
+6   | 12.07.24 | "Knowledge Graphs & Retrieval-Augmented Generation"
+7   | 26.07.24 | "Flowise" (Gastbeitrag Henry Herkula)
+8   | 09.08.24 | "Doomer-Dystopien und was man im (oder gegen den) Fall der Fälle tun kann" (Gastbeitrag Toke Lichtenberg)
+9   | 06.09.24 | "KI - was wir wollen, sollen und inwiefern wir damit glücklich werden können" (Gastbeitrag Henry Herkula)
+10   | 20.09.24 | "KI - persönliche Nöte und gesellschaftliche Gefängnisse?" (Gastbeitrag Oliver Vignjevic)
+11   | 04.10.24 | \*tba\*
 
 <sup><sub>**Themenspeicher für künftige Sitzungen:** "Persönliche KI-Assistenten lokal und on-premises betreiben", "LLM-Chatbots & Web-Search-Augmented Generation", "Wie gestalte ich LLM-Chatbots rechtssicher und praxistauglich?", "Tools für die effiziente Gestaltung von RAG-Pipelines", "KI-Tagebuch - Tipps für Aufnahme, Transkription und Auswertung?", "Implikationen des EU-AI-Act für KI in der Bildungspraxis", "KI & Urheberrecht - Stand der Dinge und absehbare Entwicklungen", "KI und Nachhaltigkeit - ökologisch, ökonomisch & sozial", "AI Literacy und verwandte Konstrukte" </sub></sup>
 
