@@ -18,7 +18,7 @@ Sitzung | Datum | Thema
 3   | 31.05.24 | "Schreibassistenz KI - praktische Prompts und Tipps für den Arbeitsalltag" [[PDF]](cop/slides/240531-3-CoP_KIPerWeb.pdf)
 4   | 14.06.24 | "HuggingChat Tools und wie man sie in eigene Chatbots einbindet" [[PDF]](cop/slides/240614-4-CoP_KIPerWeb.pdf)
 5   | 28.06.24 | "Chatbots mit Large Language Models realisieren - Varianten & Best Practice"  [[PDF]](cop/slides/240628-5-CoP_KIPerWeb.pdf)
-6   | 12.07.24 | "Knowledge Graphs & Retrieval-Augmented Generation"
+6   | 12.07.24 | "Knowledge Graphs & Retrieval-Augmented Generation" [[PDF]](cop/slides/240712-6-CoP_KIPerWeb_KG.pdf)
 7   | 26.07.24 | "Flowise" (Gastbeitrag Henry Herkula)
 8   | 09.08.24 | "Doomer-Dystopien und was man im (oder gegen den) Fall der Fälle tun kann" (Gastbeitrag Toke Lichtenberg)
 9   | 06.09.24 | "KI - was wir wollen, sollen und inwiefern wir damit glücklich werden können" (Gastbeitrag Henry Herkula)
