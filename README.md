@@ -20,7 +20,7 @@ Sitzung | Datum | Thema
 5   | 28.06.24 | "Chatbots mit Large Language Models realisieren - Varianten & Best Practice"  [[PDF]](cop/slides/240628-5-CoP_KIPerWeb.pdf)
 6   | 12.07.24 | "Knowledge Graphs & Retrieval-Augmented Generation" [[PDF]](cop/slides/240712-6-CoP_KIPerWeb.pdf)
 7   | 26.07.24 | "Flowise" (Gastbeitrag Henry Herkula) [[PDF]](cop/slides/240726-7-CoP_KIPerWeb.pdf)
-8   | 09.08.24 | "Rapid Iterative Testing and Evaluation (RITE) Method for Enhancing the Context of Large Language Models (LLMs)" (Gastbeitrag Toke Lichtenberg)
+8   | 09.08.24 | "Rapid Iterative Testing and Evaluation (RITE) Method for Enhancing the Context of Large Language Models (LLMs)" (Gastbeitrag Toke Lichtenberg) [[PDF]](cop/slides/240809-8-CoP_KIPerWeb.pdf)
 9   | 23.08.24 | "Doomer-Dystopien und was man im (oder gegen den) Fall der Fälle tun kann" (Gastbeitrag Toke Lichtenberg)
 10   | 06.09.24 | "KI - was wir wollen, sollen und inwiefern wir damit glücklich werden können" (Gastbeitrag Henry Herkula)
 11   | 20.09.24 | "KI - persönliche Nöte und gesellschaftliche Gefängnisse?" (Gastbeitrag Oliver Vignjevic)
