@@ -23,8 +23,9 @@ Sitzung | Datum | Thema
 8   | 09.08.24 | "Rapid Iterative Testing and Evaluation (RITE) Method for Enhancing the Context of Large Language Models (LLMs)" (Gastbeitrag Toke Lichtenberg) [[PDF]](cop/slides/240809-8-CoP_KIPerWeb.pdf)
 9   | 23.08.24 | "Doomer-Dystopien und was man im (oder gegen den) Fall der Fälle tun kann" (Gastbeitrag Toke Lichtenberg) [[PDF]](cop/slides/240823-9-CoP_KIPerWeb.pdf)
 10   | 06.09.24 | "KI - was wir wollen, sollen und inwiefern wir damit glücklich werden können" (Gastbeitrag Henry Herkula) [[PDF]](cop/slides/240906-10-CoP_KIPerWeb.pdf)
-11   | 20.09.24 | "KI - persönliche Nöte und gesellschaftliche Gefängnisse?" (Gastbeitrag Oliver Vignjevic)
-12   | 04.10.24 | \*tba\*
+11   | 20.09.24 | "KI - persönliche Nöte und gesellschaftliche Gefängnisse?" (Gastbeitrag Oliver Vignjevic) [[PDF]](cop/slides/240920-11-CoP_KIPerWeb.pdf)
+12   | 04.10.24 | "Wissensgraphen und Ontologien"
+13   | 18.10.24 | \*tba\*
 
 <sup><sub>**Themenspeicher für künftige Sitzungen:** "LLM-Chatbots & Web-Search-Augmented Generation", "Wie gestalte ich LLM-Chatbots rechtssicher und praxistauglich?", "KI-Tagebuch - Tipps für Aufnahme, Transkription und Auswertung?", "Implikationen des EU-AI-Act für KI in der Bildungspraxis", "KI & Urheberrecht - Stand der Dinge und absehbare Entwicklungen", "KI und Nachhaltigkeit - ökologisch, ökonomisch & sozial"</sub></sup>
 
