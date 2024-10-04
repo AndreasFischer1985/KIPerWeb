@@ -24,7 +24,7 @@ Sitzung | Datum | Thema
 9   | 23.08.24 | "Doomer-Dystopien und was man im (oder gegen den) Fall der Fälle tun kann" (Gastbeitrag Toke Lichtenberg) [[PDF]](cop/slides/240823-9-CoP_KIPerWeb.pdf)
 10   | 06.09.24 | "KI - was wir wollen, sollen und inwiefern wir damit glücklich werden können" (Gastbeitrag Henry Herkula) [[PDF]](cop/slides/240906-10-CoP_KIPerWeb.pdf)
 11   | 20.09.24 | "KI - persönliche Nöte und gesellschaftliche Gefängnisse?" (Gastbeitrag Oliver Vignjevic) [[PDF]](cop/slides/240920-11-CoP_KIPerWeb.pdf)
-12   | 04.10.24 | "Wo sind wir mit KI auf dem Hype-Cycle und wenn ja, wie viele?"
+12   | 04.10.24 | "Wo sind wir mit KI auf dem Hype-Cycle und wenn ja, wie viele?" [[PDF]](cop/slides/241004-12-CoP_KIPerWeb.pdf)
 12   | 18.10.24 | "Wissensgraphen und Ontologien"
 13   | 01.11.24 | \*tba\*
 
