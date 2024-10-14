@@ -58,7 +58,7 @@ Die vorliegenden Folien zur Tagung (im PDF-Format) können Sie auch gesammelt [h
 
 - Fischer, A., Pabst, C., Jöchner, A., Lorenz, S., Schley, T. (2022). Möglichkeiten, Bedarfe und Wünsche bezüglich der Personalisierung berufsbezogener Weiterbildung. bwp@, 43, 1-43. https://www.bwpat.de/ausgabe/43/fischer-etal
 
-- Fischer, A., Pabst, C., Lorenz, S. (2024): Empfehlungen zur beruflichen Weiterbildung. Entwicklung eines KI-basierten Entscheidungsmanagements. In: BWP 1/24. https://www.bwp-zeitschrift.de/dienst/publikationen/de/19425
+- Fischer, A., Lorenz, S., Pabst, C. (2024): Empfehlungen zur beruflichen Weiterbildung. Entwicklung eines KI-basierten Entscheidungsmanagements. In: BWP 1/24. https://www.bwp-zeitschrift.de/dienst/publikationen/de/19425
 
 - Pabst, C., Jöchner, A., Fischer, A., Lorenz, S., Schley, T. (2023): Modularisierung berufsbezogener Weiterbildung. Ein Praxisleitfaden für Bildungsanbieter. In: S. Kretschmer & I. Pfeiffer (Hrsg.), Leitfaden für die Bildungspraxis (74, 3-30). https://doi.org/10.3278/9783763976461.
 
