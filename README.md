@@ -26,8 +26,8 @@ Sitzung | Datum | Thema
 11   | 20.09.24 | "KI - persönliche Nöte und gesellschaftliche Gefängnisse?" (Gastbeitrag Oliver Vignjevic) [[PDF]](cop/slides/240920-11-CoP_KIPerWeb.pdf)
 12   | 04.10.24 | "Wo sind wir mit KI auf dem Hype-Cycle und wenn ja, wie viele?" [[PDF]](cop/slides/241004-12-CoP_KIPerWeb.pdf)
 13   | 18.10.24 | "Wissensgraphen und Ontologien" [[PDF]](cop/slides/241018-13-CoP_KIPerWeb.pdf)
-14   | 08.11.24 | "KI und der Chat mit den eigenen Daten  - Varianten & Best Practice"
-15   | 15.11.24 | \*tba\*
+14   | 08.11.24 | "KI und der Chat mit den eigenen Daten  - Varianten & Best Practice" [[PDF]](cop/slides/241108-14-CoP_KIPerWeb.pdf)
+15   | 15.11.24 | "Best Practice zur Zusammenfassung und Analyse von Texten mit generativer KI"
 16   | 29.11.24 | \*tba\*
 17   | 13.12.24 | "Wissensrepräsentationen" (Gastbeitrag Henry Herkula) 
 
