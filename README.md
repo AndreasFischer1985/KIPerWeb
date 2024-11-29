@@ -28,7 +28,7 @@ Sitzung | Datum | Thema
 13   | 18.10.24 | "Wissensgraphen und Ontologien" [[PDF]](cop/slides/241018-13-CoP_KIPerWeb.pdf)
 14   | 08.11.24 | "KI und der Chat mit den eigenen Daten  - Varianten & Best Practice" [[PDF]](cop/slides/241108-14-CoP_KIPerWeb.pdf)
 15   | 15.11.24 | "Best Practice zur Zusammenfassung und Analyse von Texten mit generativer KI" [[PDF]](cop/slides/241115-15-CoP_KIPerWeb.pdf)
-16   | 29.11.24 | "EU AI Act"
+16   | 29.11.24 | "EU AI Act" [[PDF]](cop/slides/241129-16-CoP_KIPerWeb.pdf) 
 17   | 13.12.24 | "Wissensrepräsentationen" (Gastbeitrag Henry Herkula) 
 
 <sup><sub>**Themenspeicher für künftige Sitzungen:** "LLM-Chatbots & Web-Search-Augmented Generation", "Wie gestalte ich LLM-Chatbots rechtssicher und praxistauglich?", "KI-Tagebuch - Tipps für Aufnahme, Transkription und Auswertung?", "Implikationen des EU-AI-Act für KI in der Bildungspraxis", "KI & Urheberrecht - Stand der Dinge und absehbare Entwicklungen", "KI und Nachhaltigkeit - ökologisch, ökonomisch & sozial"</sub></sup>
