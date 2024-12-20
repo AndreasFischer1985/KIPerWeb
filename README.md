@@ -11,6 +11,12 @@ Sollten Sie Themenvorschläge für künftige Sitzungen einbringen wollen, könne
 Informationen zu den Terminen und Inhalten der Austauschrunde können Sie der folgenden Tabelle entnehmen:
 
 ### Termine
+#### 2025
+Sitzung | Datum | Thema
+-------- | -------- | --------
+1   | 10.01.25   | "Auftaktsitzung" 
+
+#### 2024
 Sitzung | Datum | Thema
 -------- | -------- | --------
 1   | 03.05.24   | "Potenziale von KI für die Berufs- und Studienorientierung" [[PDF]](cop/slides/240503-1-CoP_KIPerWeb.pdf)
@@ -31,7 +37,7 @@ Sitzung | Datum | Thema
 16   | 29.11.24 | "EU AI Act" [[PDF]](cop/slides/241129-16-CoP_KIPerWeb.pdf) 
 17   | 13.12.24 | "Wissensrepräsentationen" (Gastbeitrag Henry Herkula) 
 
-<sup><sub>**Themenspeicher für künftige Sitzungen:** "LLM-Chatbots & Web-Search-Augmented Generation", "Wie gestalte ich LLM-Chatbots rechtssicher und praxistauglich?", "KI-Tagebuch - Tipps für Aufnahme, Transkription und Auswertung?", "Implikationen des EU-AI-Act für KI in der Bildungspraxis", "KI & Urheberrecht - Stand der Dinge und absehbare Entwicklungen", "KI und Nachhaltigkeit - ökologisch, ökonomisch & sozial"</sub></sup>
+<sup><sub>**Themenspeicher für künftige Sitzungen:** "LLM-Chatbots & Web-Search-Augmented Generation", "Wie gestalte ich LLM-Chatbots rechtssicher und praxistauglich?", "KI-Tagebuch - Tipps für Aufnahme, Transkription und Auswertung?", "KI & Urheberrecht - Stand der Dinge und absehbare Entwicklungen", "KI und Nachhaltigkeit - ökologisch, ökonomisch & sozial"</sub></sup>
 
 
 ## Projekt KIPerWeb
