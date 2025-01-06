@@ -35,7 +35,7 @@ Sitzung | Datum | Thema
 14   | 08.11.24 | "KI und der Chat mit den eigenen Daten  - Varianten & Best Practice" [[PDF]](cop/slides/241108-14-CoP_KIPerWeb.pdf)
 15   | 15.11.24 | "Best Practice zur Zusammenfassung und Analyse von Texten mit generativer KI" [[PDF]](cop/slides/241115-15-CoP_KIPerWeb.pdf)
 16   | 29.11.24 | "EU AI Act" [[PDF]](cop/slides/241129-16-CoP_KIPerWeb.pdf) 
-17   | 13.12.24 | "Wissensrepräsentationen" (Gastbeitrag Henry Herkula) 
+17   | 13.12.24 | "Wissensrepräsentationen" (Gastbeitrag Henry Herkula) [[PDF]](cop/slides/241213-17-CoP_KIPerWeb.pdf) 
 
 <sup><sub>**Themenspeicher für künftige Sitzungen:** "LLM-Chatbots & Web-Search-Augmented Generation", "Wie gestalte ich LLM-Chatbots rechtssicher und praxistauglich?", "KI-Tagebuch - Tipps für Aufnahme, Transkription und Auswertung?", "KI & Urheberrecht - Stand der Dinge und absehbare Entwicklungen", "KI und Nachhaltigkeit - ökologisch, ökonomisch & sozial"</sub></sup>
 
