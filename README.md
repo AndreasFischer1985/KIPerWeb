@@ -21,7 +21,7 @@ Sitzung | Datum | Thema
 22   | 07.03.25   | "KI-basierte Inhaltsanalyse"
 23   | 21.03.25   | "NotebookLM und Wissensarbeit"
 24   | 04.04.25   | "Knowledge Graphs aus Texten extrahieren"
-25   | 18.04.25   | "KI-Videogenerierung"
+25   | 18.04.25   | "KI-Videogenerierung und KI-Avatare"
 26   | 09.05.25   | "KI in Schule und Unterricht"
 27   | 23.05.25   | "KI-Assistenzsysteme in der Berufsorientierung"
 28   | 06.06.25   | "KI in der Softwareentwicklung"
