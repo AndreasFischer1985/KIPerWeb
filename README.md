@@ -14,7 +14,21 @@ Informationen zu den Terminen und Inhalten der Austauschrunde können Sie der fo
 #### 2025
 Sitzung | Datum | Thema
 -------- | -------- | --------
-1   | 10.01.25   | "Auftaktsitzung" 
+18   | 10.01.25   | "Auftaktsitzung 2025" [[PDF]](cop/slides/250110-18-CoP_KIPerWeb.pdf)
+19   | 24.01.25   | "KI-Kompetenz"
+20   | 07.02.25   | "KI-Agenten"
+21   | 21.02.25   | "KI im Marketing"
+22   | 07.03.25   | "KI-basierte Inhaltsanalyse"
+23   | 21.03.25   | "NotebookLM und Wissensarbeit"
+24   | 04.04.25   | "Knowledge Graphs aus Texten extrahieren"
+25   | 18.04.25   | "KI-Videogenerierung"
+26   | 09.05.25   | "KI in Schule und Unterricht"
+27   | 23.05.25   | "KI-Assistenzsysteme in der Berufsorientierung"
+28   | 06.06.25   | "KI in der Softwareentwicklung"
+29   | 20.06.25   | "KI & Robotik"
+30   | 04.07.25   | tba
+
+
 
 #### 2024
 Sitzung | Datum | Thema
