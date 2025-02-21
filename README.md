@@ -16,8 +16,8 @@ Sitzung | Datum | Thema
 -------- | -------- | --------
 18   | 10.01.25   | "Auftaktsitzung 2025" [[PDF]](cop/slides/250110-18-CoP_KIPerWeb.pdf)
 19   | 24.01.25   | "KI-Kompetenz" [[PDF]](cop/slides/250124-19-CoP_KIPerWeb.pdf)
-20   | 07.02.25   | "KI-Kompetenzen (Gastbeitrag: Martin Lindner)"
-21   | 21.02.25   | "KI-Agenten"
+20   | 07.02.25   | "KI-Kompetenzen (Gastbeitrag: Martin Lindner)" [[PDF]](cop/slides/250207-20-CoP_KIPerWeb.pdf)
+21   | 21.02.25   | "KI-Agenten" [[PDF]](cop/slides/250221-21-CoP_KIPerWeb.pdf)
 22   | 07.03.25   | "KI-basierte Inhaltsanalyse"
 23   | 21.03.25   | "NotebookLM und Wissensarbeit"
 24   | 04.04.25   | "Knowledge Graphs aus Texten extrahieren"
