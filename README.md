@@ -26,7 +26,9 @@ Sitzung | Datum | Thema
 27   | 23.05.25   | "KI-Assistenzsysteme in der Berufsorientierung"
 28   | 06.06.25   | "KI in der Softwareentwicklung"
 29   | 20.06.25   | "KI & Robotik"
-30   | 04.07.25   | tba
+30   | 04.07.25   | "Multimodale KI-Modelle (Gastbeitrag Toke Lichtenberg)"
+31   | 18.07.25   | "Multimodale KI-Modelle (Gastbeitrag Toke Lichtenberg)"
+
 
 
 
