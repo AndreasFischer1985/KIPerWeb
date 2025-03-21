@@ -19,7 +19,7 @@ Sitzung | Datum | Thema
 20   | 07.02.25   | "KI-Kompetenzen (Gastbeitrag: Martin Lindner)" [[PDF]](cop/slides/250207-20-CoP_KIPerWeb.pdf)
 21   | 21.02.25   | "KI-Agenten" [[PDF]](cop/slides/250221-21-CoP_KIPerWeb.pdf)
 22   | 07.03.25   | "KI-basierte Inhaltsanalyse 2025" [[PDF]](cop/slides/250307-22-CoP_KIPerWeb.pdf)
-23   | 21.03.25   | "NotebookLM und Wissensarbeit"
+23   | 21.03.25   | "NotebookLM und Wissensarbeit" [[PDF]](cop/slides/250321-23-CoP_KIPerWeb.pdf)
 24   | 04.04.25   | "Knowledge Graphs aus Texten extrahieren"
 25   | 18.04.25   | "KI-Videogenerierung und KI-Avatare"
 26   | 09.05.25   | "KI in Schule und Unterricht"
