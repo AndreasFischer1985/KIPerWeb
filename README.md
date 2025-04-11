@@ -21,13 +21,13 @@ Sitzung | Datum | Thema
 22   | 07.03.25   | "KI-basierte Inhaltsanalyse 2025" [[PDF]](cop/slides/250307-22-CoP_KIPerWeb.pdf)
 23   | 21.03.25   | "NotebookLM und Wissensarbeit" [[PDF]](cop/slides/250321-23-CoP_KIPerWeb.pdf)
 24   | 04.04.25   | "Virtuelle Praktika und andere Potenziale von KI für die Berufsorientierung (Gastbeitrag: Sandra Hardes)" [[PDF]](cop/slides/250404-24-CoP_KIPerWeb.pdf)
-25   | 18.04.25   | "KI-Videogenerierung und KI-Avatare"
-26   | 09.05.25   | "KI in Schule und Unterricht"
-27   | 23.05.25   | "KI-Assistenzsysteme in der Berufsorientierung"
-28   | 06.06.25   | "KI in der Softwareentwicklung"
-29   | 20.06.25   | "KI & Robotik"
-30   | 04.07.25   | "Multimodale KI-Modelle (Gastbeitrag Toke Lichtenberg)"
-31   | 18.07.25   | "Knowledge Graphs aus Texten extrahieren"
+25   | 09.05.25   | "KI in Schule und Unterricht"
+26   | 23.05.25   | "KI-Assistenzsysteme in der Berufsorientierung"
+27   | 06.06.25   | "KI in der Softwareentwicklung"
+28   | 20.06.25   | "KI & Robotik"
+29   | 04.07.25   | "Multimodale KI-Modelle (Gastbeitrag Toke Lichtenberg)"
+30   | 18.07.25   | "Knowledge Graphs aus Texten extrahieren"
+31   | 01.08.25   | "KI-Videogenerierung und KI-Avatare"
 
 
 
