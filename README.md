@@ -22,15 +22,18 @@ Sitzung | Datum | Thema
 23   | 21.03.25   | "NotebookLM und Wissensarbeit" [[PDF]](cop/slides/250321-23-CoP_KIPerWeb.pdf)
 24   | 04.04.25   | "Virtuelle Praktika und andere Potenziale von KI für die Berufsorientierung (Gastbeitrag: Sandra Hardes)" [[PDF]](cop/slides/250404-24-CoP_KIPerWeb.pdf)
 25   | 02.05.25   | "KI in Schule und Unterricht" [[PDF]](cop/slides/250502-25-CoP_KIPerWeb.pdf)
-26   | 30.05.25   | "Bias und Fairness - KI zwischen Neutralität und Vorurteil"
-27   | 14.06.25   | "Knowledge Graphs aus Texten extrahieren"
-28   | 27.06.25   | "Multimodale KI-Modelle (Gastbeitrag Toke Lichtenberg)"
-29   | 11.07.25   | "KI & Robotik"
-30   | 25.07.25   | "KI-Videogenerierung und KI-Avatare"
-31   | 08.08.25   | "KI in der Softwareentwicklung"
-32   | 22.08.25   | tba
-
-
+26   | 16.05.25   | "Bias und Fairness - KI zwischen Neutralität und Vorurteil"
+27   | 30.05.25   | "Transparenzpflichten zu KI nach Art. 50 KI-VO"
+28   | 14.06.25   | "Knowledge Graphs aus Texten extrahieren"
+29   | 27.06.25   | "KI-basierte Transkription und Beschreibung von Audio und Video"
+30   | 11.07.25   | "Multimodale KI-Modelle (Gastbeitrag Toke Lichtenberg)"
+31   | 25.07.25   | "KI-Videogenerierung und KI-Avatare"
+32   | 08.08.25   | "KI in der Softwareentwicklung"
+33   | 22.08.25   | "KI & Robotik"
+34   | 05.09.25   | "KI & Web-Search-Augmented Generation"
+35   | 19.09.25   | "KI und Urheberrecht"
+36   | 03.10.25   | "KI und Nachhaltigkeit - ökologisch, ökonomisch & sozial"
+37   | 17.10.25   | tba
 
 
 #### 2024
@@ -53,8 +56,6 @@ Sitzung | Datum | Thema
 15   | 15.11.24 | "Best Practice zur Zusammenfassung und Analyse von Texten mit generativer KI" [[PDF]](cop/slides/241115-15-CoP_KIPerWeb.pdf)
 16   | 29.11.24 | "EU AI Act" [[PDF]](cop/slides/241129-16-CoP_KIPerWeb.pdf) 
 17   | 13.12.24 | "Wissensrepräsentationen" (Gastbeitrag Henry Herkula) [[PDF]](cop/slides/241213-17-CoP_KIPerWeb.pdf) 
-
-<sup><sub>**Themenspeicher für künftige Sitzungen:** "LLM-Chatbots & Web-Search-Augmented Generation", "Wie gestalte ich LLM-Chatbots rechtssicher und praxistauglich?", "KI-Tagebuch - Tipps für Aufnahme, Transkription und Auswertung?", "KI & Urheberrecht - Stand der Dinge und absehbare Entwicklungen", "KI und Nachhaltigkeit - ökologisch, ökonomisch & sozial"</sub></sup>
 
 
 ## Projekt KIPerWeb
