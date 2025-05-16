@@ -22,7 +22,7 @@ Sitzung | Datum | Thema
 23   | 21.03.25   | "NotebookLM und Wissensarbeit" [[PDF]](cop/slides/250321-23-CoP_KIPerWeb.pdf)
 24   | 04.04.25   | "Virtuelle Praktika und andere Potenziale von KI für die Berufsorientierung (Gastbeitrag: Sandra Hardes)" [[PDF]](cop/slides/250404-24-CoP_KIPerWeb.pdf)
 25   | 02.05.25   | "KI in Schule und Unterricht" [[PDF]](cop/slides/250502-25-CoP_KIPerWeb.pdf)
-26   | 16.05.25   | "Bias und Fairness - KI zwischen Neutralität und Vorurteil"
+26   | 16.05.25   | "Bias und Fairness - KI zwischen Neutralität und Vorurteil" [[PDF]](cop/slides/250516-26-CoP_KIPerWeb.pdf)
 27   | 30.05.25   | "Transparenzpflichten zu KI nach Art. 50 KI-VO"
 28   | 13.06.25   | "Knowledge Graphs aus Texten extrahieren"
 29   | 27.06.25   | "KI-basierte Transkription und Beschreibung von Audio und Video"
