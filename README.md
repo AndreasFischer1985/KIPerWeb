@@ -23,7 +23,7 @@ Sitzung | Datum | Thema
 24   | 04.04.25   | "Virtuelle Praktika und andere Potenziale von KI für die Berufsorientierung (Gastbeitrag: Sandra Hardes)" [[PDF]](cop/slides/250404-24-CoP_KIPerWeb.pdf)
 25   | 02.05.25   | "KI in Schule und Unterricht" [[PDF]](cop/slides/250502-25-CoP_KIPerWeb.pdf)
 26   | 16.05.25   | "Bias und Fairness - KI zwischen Neutralität und Vorurteil" [[PDF]](cop/slides/250516-26-CoP_KIPerWeb.pdf)
-27   | 30.05.25   | "Transparenzpflichten zu KI nach Art. 50 KI-VO"
+27   | 30.05.25   | "Transparenzpflichten zu KI nach Art. 50 KI-VO" [[PDF]](cop/slides/250530-27-CoP_KIPerWeb.pdf)
 28   | 13.06.25   | "Knowledge Graphs aus Texten extrahieren"
 29   | 27.06.25   | "KI-basierte Transkription und Beschreibung von Audio und Video"
 30   | 11.07.25   | "Multimodale KI-Modelle (Gastbeitrag Toke Lichtenberg)"
@@ -33,7 +33,7 @@ Sitzung | Datum | Thema
 34   | 05.09.25   | "KI & Web-Search-Augmented Generation"
 35   | 19.09.25   | "KI und Urheberrecht"
 36   | 03.10.25   | "KI und Nachhaltigkeit - ökologisch, ökonomisch & sozial"
-37   | 17.10.25   | tba
+37   | 17.10.25   | "KI und Videogenerierung"
 
 
 #### 2024
