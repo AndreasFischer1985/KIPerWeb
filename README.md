@@ -24,10 +24,10 @@ Sitzung | Datum | Thema
 25   | 02.05.25   | "KI in Schule und Unterricht" [[PDF]](cop/slides/250502-25-CoP_KIPerWeb.pdf)
 26   | 16.05.25   | "Bias und Fairness - KI zwischen Neutralität und Vorurteil" [[PDF]](cop/slides/250516-26-CoP_KIPerWeb.pdf)
 27   | 30.05.25   | "Transparenzpflichten zu KI nach Art. 50 KI-VO" [[PDF]](cop/slides/250530-27-CoP_KIPerWeb.pdf)
-28   | 13.06.25   | "Knowledge Graphs aus Texten extrahieren"
+28   | 13.06.25   | "Knowledge Graphs aus Texten extrahieren" (Gastbeitrag: Manpreeth Vankadara)
 29   | 27.06.25   | "KI-basierte Transkription und Beschreibung von Audio und Video"
-30   | 11.07.25   | "Multimodale KI-Modelle (Gastbeitrag Toke Lichtenberg)"
-31   | 25.07.25   | "Limitless.ai & Co. (Gastbeitrag Andreas Wittke)"
+30   | 11.07.25   | "Multimodale KI-Modelle (Gastbeitrag: Toke Lichtenberg)"
+31   | 25.07.25   | "Limitless.ai & Co. (Gastbeitrag: Andreas Wittke)"
 32   | 08.08.25   | "KI in der Softwareentwicklung"
 33   | 22.08.25   | "KI & Robotik"
 34   | 05.09.25   | "KI & Web-Search-Augmented Generation"
