@@ -26,14 +26,16 @@ Sitzung | Datum | Thema
 27   | 30.05.25   | "Transparenzpflichten zu KI nach Art. 50 KI-VO" [[PDF]](cop/slides/250530-27-CoP_KIPerWeb.pdf)
 28   | 13.06.25   | "Knowledge Graphs aus Texten extrahieren" (Gastbeitrag: Manpreeth Vankadara) [[PDF]](cop/slides/250613-28-CoP_KIPerWeb.pdf)
 29   | 27.06.25   | "KI-basierte Transkription und Beschreibung von Audio und Video" [[PDF]](cop/slides/250627-29-CoP_KIPerWeb.pdf)
-30   | 11.07.25   | "LLMs, Zertifikate und Cybersecurity (Gastbeitrag: Toke Lichtenberg)" [[PDF]](cop/slides/250711-30-CoP_KIPerWeb.pdf)
-31   | 25.07.25   | "Wearable AI - Limitless.ai & Co. (Gastbeitrag: Andreas Wittke)" [[PDF]](cop/slides/250725-31-CoP_KIPerWeb.pdf)
-32   | 08.08.25   | "KI in der Softwareentwicklung"
-33   | 22.08.25   | "KI & Robotik"
+30   | 11.07.25   | "LLMs, Zertifikate und Cybersecurity" (Gastbeitrag: Toke Lichtenberg) [[PDF]](cop/slides/250711-30-CoP_KIPerWeb.pdf)
+31   | 25.07.25   | "Wearable AI - Limitless.ai & Co." (Gastbeitrag: Andreas Wittke) [[PDF]](cop/slides/250725-31-CoP_KIPerWeb.pdf)
+32   | 08.08.25   | "KI-Plattform Localmind" (Gastbeitrag: Gabriele Braun)
+33   | 22.08.25   | "Multimodal Retrieval-Augmented Generation on-premises?" (Gastbeitrag: Henry Herkula)
 34   | 05.09.25   | "KI & Web-Search-Augmented Generation"
 35   | 19.09.25   | "KI und Urheberrecht"
 36   | 03.10.25   | "KI und Nachhaltigkeit - ökologisch, ökonomisch & sozial"
 37   | 17.10.25   | "KI und Videogenerierung"
+38   | 31.10.25   | "KI in der Softwareentwicklung"
+39   | 14.11.25   | "KI & Robotik"
 
 
 #### 2024
