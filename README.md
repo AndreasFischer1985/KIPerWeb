@@ -29,7 +29,7 @@ Sitzung | Datum | Thema
 30   | 11.07.25   | "LLMs, Zertifikate und Cybersecurity" (Gastbeitrag: Toke Lichtenberg) [[PDF]](cop/slides/250711-30-CoP_KIPerWeb.pdf)
 31   | 25.07.25   | "Wearable AI - Limitless.ai & Co." (Gastbeitrag: Andreas Wittke) [[PDF]](cop/slides/250725-31-CoP_KIPerWeb.pdf)
 32   | 08.08.25   | "KI-Plattform Localmind" (Gastbeitrag: Gabriele Braun) [[PDF]](cop/slides/250808-32-CoP_KIPerWeb.pdf)
-33   | 22.08.25   | "Multimodal Retrieval-Augmented Generation on-premises?" (Gastbeitrag: Henry Herkula)
+33   | 22.08.25   | "Multimodal Retrieval-Augmented Generation on-premises?" (Gastbeitrag: Henry Herkula) [[PDF]](cop/slides/250822-33-CoP_KIPerWeb.pdf)
 34   | 05.09.25   | "KI & Web-Search-Augmented Generation"
 35   | 19.09.25   | "KI und Urheberrecht"
 36   | 03.10.25   | "KI und Nachhaltigkeit - ökologisch, ökonomisch & sozial"
