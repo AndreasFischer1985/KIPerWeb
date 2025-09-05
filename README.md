@@ -30,12 +30,13 @@ Sitzung | Datum | Thema
 31   | 25.07.25   | "Wearable AI - Limitless.ai & Co." (Gastbeitrag: Andreas Wittke) [[PDF]](cop/slides/250725-31-CoP_KIPerWeb.pdf)
 32   | 08.08.25   | "KI-Plattform Localmind" (Gastbeitrag: Gabriele Braun) [[PDF]](cop/slides/250808-32-CoP_KIPerWeb.pdf)
 33   | 22.08.25   | "Multimodal Retrieval-Augmented Generation on-premises?" (Gastbeitrag: Henry Herkula) [[PDF]](cop/slides/250822-33-CoP_KIPerWeb.pdf)
-34   | 05.09.25   | "KI & Web-Search-Augmented Generation"
-35   | 19.09.25   | "KI und Urheberrecht"
+34   | 05.09.25   | "KI & Web-Search-Augmented Generation" [[PDF]](cop/slides/250905-34-CoP_KIPerWeb.pdf)
+35   | 19.09.25   | "KI-basierte Inhaltsanalyse in R"
 36   | 03.10.25   | "KI und Nachhaltigkeit - ökologisch, ökonomisch & sozial"
 37   | 17.10.25   | "KI und Videogenerierung"
 38   | 31.10.25   | "KI in der Softwareentwicklung"
 39   | 14.11.25   | "KI & Robotik"
+40   | 28.11.25   | "KI & Urheberrecht"
 
 
 #### 2024
