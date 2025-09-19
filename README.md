@@ -31,7 +31,7 @@ Sitzung | Datum | Thema
 32   | 08.08.25   | "KI-Plattform Localmind" (Gastbeitrag: Gabriele Braun) [[PDF]](cop/slides/250808-32-CoP_KIPerWeb.pdf)
 33   | 22.08.25   | "Multimodal Retrieval-Augmented Generation on-premises?" (Gastbeitrag: Henry Herkula) [[PDF]](cop/slides/250822-33-CoP_KIPerWeb.pdf)
 34   | 05.09.25   | "KI & Web-Search-Augmented Generation" [[PDF]](cop/slides/250905-34-CoP_KIPerWeb.pdf)
-35   | 19.09.25   | "KI-basierte Inhaltsanalyse in R"
+35   | 19.09.25   | "KI-basierte Inhaltsanalyse in R" [[PDF]](cop/slides/250919-35-CoP_KIPerWeb.pdf)
 36   | 03.10.25   | "KI und Nachhaltigkeit - ökologisch, ökonomisch & sozial"
 37   | 17.10.25   | "KI und Videogenerierung"
 38   | 31.10.25   | "KI in der Softwareentwicklung"
