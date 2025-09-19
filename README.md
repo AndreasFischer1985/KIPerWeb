@@ -35,7 +35,7 @@ Sitzung | Datum | Thema
 36   | 03.10.25   | "KI und Nachhaltigkeit - ökologisch, ökonomisch & sozial"
 37   | 17.10.25   | "KI und Videogenerierung"
 38   | 31.10.25   | "KI in der Softwareentwicklung"
-39   | 14.11.25   | "KI & Robotik"
+39   | 14.11.25   | "Tools für KI-basierte Inhaltsanalyse (Gastbeitrag: Henry Herkula)"
 40   | 28.11.25   | "KI & Urheberrecht"
 
 
