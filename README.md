@@ -33,7 +33,7 @@ Sitzung | Datum | Thema
 34   | 05.09.25   | "KI & Web-Search-Augmented Generation" [[PDF]](cop/slides/250905-34-CoP_KIPerWeb.pdf)
 35   | 19.09.25   | "KI-basierte Inhaltsanalyse in R" [[PDF]](cop/slides/250919-35-CoP_KIPerWeb.pdf)
 36   | 17.10.25   | "KI und Videogenerierung" [[PDF]](cop/slides/251017-36-CoP_KIPerWeb.pdf)
-37   | 31.10.25   | "KI in der Softwareentwicklung" [[PDF]](cop/slides/253031-37-CoP_KIPerWeb.pdf)
+37   | 31.10.25   | "KI in der Softwareentwicklung" [[PDF]](cop/slides/251031-37-CoP_KIPerWeb.pdf)
 38   | 14.11.25   | "Tools für KI-basierte Inhaltsanalyse (Gastbeitrag: Henry Herkula)"
 39   | 28.11.25   | "KI & Urheberrecht"
 40   | 12.12.25   | "KI und Nachhaltigkeit - ökologisch, ökonomisch & sozial"
