@@ -36,7 +36,7 @@ Sitzung | Datum | Thema
 37   | 31.10.25   | "KI in der Softwareentwicklung" [[PDF]](cop/slides/251031-37-CoP_KIPerWeb.pdf)
 38   | 14.11.25   | "Tools für KI-basierte Inhaltsanalyse (Gastbeitrag: Henry Herkula)" [[PDF]](cop/slides/251114-38-CoP_KIPerWeb.pdf)
 39   | 28.11.25   | "KI & Urheberrecht" [[PDF]](cop/slides/251128-39-CoP_KIPerWeb.pdf)
-40   | 12.12.25   | "KI und Nachhaltigkeit - ökologisch, ökonomisch & sozial"
+40   | 12.12.25   | "KI und Nachhaltigkeit - ökologisch, ökonomisch & sozial" [[PDF]](cop/slides/251212-40-CoP_KIPerWeb.pdf)
 
 
 #### 2024
