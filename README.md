@@ -11,6 +11,11 @@ Sollten Sie Themenvorschläge für künftige Sitzungen einbringen wollen, könne
 Informationen zu den Terminen und Inhalten der Austauschrunde können Sie der folgenden Tabelle entnehmen:
 
 ### Termine
+#### 2026
+Sitzung | Datum | Thema
+-------- | -------- | --------
+41   | 23.01.25   | "Auftaktsitzung 2026" 
+
 #### 2025
 Sitzung | Datum | Thema
 -------- | -------- | --------
