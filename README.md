@@ -14,7 +14,7 @@ Informationen zu den Terminen und Inhalten der Austauschrunde können Sie der fo
 #### 2026
 Sitzung | Datum | Thema
 -------- | -------- | --------
-41   | 20.02.25   | "Auftaktsitzung 2026" 
+41   | 20.02.26   | "Auftaktsitzung 2026" 
 
 #### 2025
 Sitzung | Datum | Thema
