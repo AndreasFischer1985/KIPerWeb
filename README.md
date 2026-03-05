@@ -15,6 +15,9 @@ Informationen zu den Terminen und Inhalten der Austauschrunde können Sie der fo
 Sitzung | Datum | Thema
 -------- | -------- | --------
 41   | 20.02.26   | "Auftaktsitzung 2026"  [[PDF]](cop/slides/260202-41-CoP_KIPerWeb.pdf)
+42   | 05.03.26   | "Coding mit KI (Gastbeitrag: Toke Lichtenberg)"  
+
+<sub><sup>Themensammlung 2026: Transkription, OCR, Processor und algorithmische Forschungsmethoden, Prüfen mit KI, gesellschaftliche Folgen, etc.</sup></sub>
 
 #### 2025
 Sitzung | Datum | Thema
