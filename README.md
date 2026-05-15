@@ -16,7 +16,7 @@ Sitzung | Datum | Thema
 -------- | -------- | --------
 41   | 20.02.26   | "Auftaktsitzung 2026"  [[PDF]](cop/slides/260202-41-CoP_KIPerWeb.pdf)
 42   | 06.03.26   | "Coding mit KI (Gastbeitrag: Toke Lichtenberg)"  [[PDF]](cop/slides/260306-42-CoP_KIPerWeb.pdf)
-43   | 15.05.26   | "Agentic AI - was bleibt von OpenClaw, PicoClaw & Co?"
+43   | 15.05.26   | "Agentic AI - was bleibt von OpenClaw, PicoClaw & Co?"  [[PDF]](cop/slides/260515-43-CoP_KIPerWeb.pdf)
 
 <sub><sup>Themensammlung 2026: Transkription, OCR, Processor und algorithmische Forschungsmethoden, Prüfen mit KI, gesellschaftliche Folgen, etc.</sup></sub>
 
