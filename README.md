@@ -18,12 +18,13 @@ Sitzung | Datum | Thema
 42   | 06.03.26   | "Coding mit KI (Gastbeitrag: Toke Lichtenberg)"  [[PDF]](cop/slides/260306-42-CoP_KIPerWeb.pdf)
 43   | 15.05.26   | "Agentic AI - was bleibt von OpenClaw, PicoClaw & Co?"  [[PDF]](cop/slides/260515-43-CoP_KIPerWeb.pdf)
 44   | 12.06.26   | "Gemma" [[PDF]](cop/slides/260612-44-CoP_KIPerWeb.pdf)
-45   | 26.06.26   | "Weniger Tippen, mehr Entwickeln - KI Softwareentwicklungstools (Gastbeitrag: Max Freiberg)"
+45   | 26.06.26   | "Weniger Tippen, mehr Entwickeln - KI Softwareentwicklungstools (Gastbeitrag: Max Freiberg)" [[PDF]](cop/slides/260626-45-CoP_KIPerWeb.pdf)
 46   | 10.07.26   | "KIs verstehen? (Gastbeitrag: Henry Herkula)"
-47   | 07.08.26   | tba
+47   | 07.08.26   | "Whitfield Times" (Gastbeitrag)
+48   | 21.08.26   | tba
 
 
-<sub><sup>Themensammlung 2026: Transkription, OCR, Processor und algorithmische Forschungsmethoden, Prüfen mit KI, gesellschaftliche Folgen, etc.</sup></sub>
+<sub><sup>Themensammlung 2026: Zensur, Mehrkörpersystemesimulation, Transkription, OCR, Processor und algorithmische Forschungsmethoden, Prüfen mit KI, gesellschaftliche Folgen, etc.</sup></sub>
 
 #### 2025
 Sitzung | Datum | Thema
