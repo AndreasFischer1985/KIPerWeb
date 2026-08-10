@@ -21,8 +21,9 @@ Sitzung | Datum | Thema
 45   | 26.06.26   | "Weniger Tippen, mehr Entwickeln - KI Softwareentwicklungstools (Gastbeitrag: Max Freiberg)" [[PDF]](cop/slides/260626-45-CoP_KIPerWeb.pdf)
 46   | 10.07.26   | "KIs verstehen? (Gastbeitrag: Henry Herkula)"  [[PDF]](cop/slides/260626-46-CoP_KIPerWeb.pdf)
 47   | 24.07.26   | "ChatGPT hackt und wirbt" [[PDF]](cop/slides/260724-47-CoP_KIPerWeb.pdf)
-48   | 07.08.26   | "Whitfield Times" (Gastbeitrag)
-49   | 21.08.26   | tba
+48   | 07.08.26   | "KI-Zensur - Gesellschaftliche Erziehung oder Sicherheitsrisiko?" (Gastbeitrag: Henry Herkula) [[PDF]](cop/slides/260724-47-CoP_KIPerWeb.pdf)
+49   | 21.08.26   | "KI zur Auswertung qualitativer und quantitativer Daten nutzen"
+50   | 04.09.26   | "Whitfield Times" (Gastbeitrag)
 
 
 <sub><sup>Themensammlung 2026: Zensur, Mehrkörpersystemesimulation, Transkription, OCR, Processor und algorithmische Forschungsmethoden, Prüfen mit KI, gesellschaftliche Folgen, etc.</sup></sub>
