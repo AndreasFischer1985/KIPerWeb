@@ -22,13 +22,15 @@ Sitzung | Datum | Thema
 46   | 10.07.26   | "KIs verstehen? (Gastbeitrag: Henry Herkula)"  [[PDF]](cop/slides/260626-46-CoP_KIPerWeb.pdf)
 47   | 24.07.26   | "ChatGPT hackt und wirbt" [[PDF]](cop/slides/260724-47-CoP_KIPerWeb.pdf)
 48   | 07.08.26   | "KI-Zensur - Gesellschaftliche Erziehung oder Sicherheitsrisiko?" (Gastbeitrag: Henry Herkula) [[PDF]](cop/slides/260724-47-CoP_KIPerWeb.pdf)
-49   | 04.09.26   | "Whitfield Times" (Gastbeitrag)
-...  | ...   | ...
+49   | 04.09.26   | "Whitfield Times" (Gastbeitrag Jonathan Wiese)
+50   | 18.09.26   | "Tool & Function Calling im Wandel"
+51   | 02.10.26   | tba
 52   | 16.10.26   | "KI zur Auswertung qualitativer und quantitativer Daten nutzen"
+...  | ...   | ...
 
 
 
-<sub><sup>Themensammlung 2026: Zensur, Mehrkörpersystemesimulation, Transkription, OCR, Processor und algorithmische Forschungsmethoden, Prüfen mit KI, gesellschaftliche Folgen, etc.</sup></sub>
+<sub><sup>Themensammlung 2026: Mehrkörpersystemesimulation, Transkription, OCR, Processor und algorithmische Forschungsmethoden, Prüfen mit KI, gesellschaftliche Folgen, etc.</sup></sub>
 
 #### 2025
 Sitzung | Datum | Thema
