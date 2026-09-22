@@ -23,8 +23,8 @@ Sitzung | Datum | Thema
 47   | 24.07.26   | "ChatGPT hackt und wirbt" [[PDF]](cop/slides/260724-47-CoP_KIPerWeb.pdf)
 48   | 07.08.26   | "KI-Zensur - Gesellschaftliche Erziehung oder Sicherheitsrisiko?" (Gastbeitrag: Henry Herkula) [[PDF]](cop/slides/260724-47-CoP_KIPerWeb.pdf)
 49   | 04.09.26   | "Whitfield Times" (Gastbeitrag Jonathan Wiese) [[PDF]](cop/slides/260904-49-CoP_KIPerWeb.pdf)
-50   | 18.09.26   | "Kontinuum der KI-Autonomie - Tool & Function Calling im Wandel"
-51   | 02.10.26   | tba
+50   | 18.09.26   | "Kontinuum der KI-Autonomie - Tool & Function Calling im Wandel"(cop/slides/260918-50-CoP_KIPerWeb.pdf)
+51   | 02.10.26   | "Logprobs & Grammar-based Sampling bei Textgenerierung & -analyse"
 52   | 16.10.26   | "KI zur Auswertung qualitativer und quantitativer Daten nutzen"
 ...  | ...   | ...
 
