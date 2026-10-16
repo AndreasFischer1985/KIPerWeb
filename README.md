@@ -26,12 +26,13 @@ Sitzung | Datum | Thema
 50   | 18.09.26   | "Kontinuum der KI-Autonomie - Tool & Function Calling im Wandel" [[PDF]](cop/slides/260918-50-CoP_KIPerWeb.pdf)
 51   | 02.10.26   | "Logprobs & Grammar-based Sampling bei Textgenerierung & -analyse" [[PDF]](cop/slides/261002-51-CoP_KIPerWeb.pdf)
 52   | 16.10.26   | "KI zur Auswertung qualitativer und quantitativer Daten nutzen" [[PDF]](cop/slides/261016-52-CoP_KIPerWeb.pdf)      
-53   | 16.10.26   | "Processor (Gastbeitrag Henry Herkula)"
+53   | 30.10.26   | tba
+54   | 13.11.26   | "Processor (Gastbeitrag Henry Herkula)"
 ...  | ...   | ...
 
 
 
-<sub><sup>Themensammlung 2026: Mehrkörpersystemesimulation, Transkription, OCR, Processor und algorithmische Forschungsmethoden, Prüfen mit KI, gesellschaftliche Folgen, etc.</sup></sub>
+<sub><sup>Themensammlung 2026: Mehrkörpersystemesimulation, Transkription, OCR, Prüfen mit KI, gesellschaftliche Folgen, etc.</sup></sub>
 
 #### 2025
 Sitzung | Datum | Thema
