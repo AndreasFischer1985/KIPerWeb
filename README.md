@@ -25,7 +25,8 @@ Sitzung | Datum | Thema
 49   | 04.09.26   | "Whitfield Times" (Gastbeitrag Jonathan Wiese) [[PDF]](cop/slides/260904-49-CoP_KIPerWeb.pdf)
 50   | 18.09.26   | "Kontinuum der KI-Autonomie - Tool & Function Calling im Wandel" [[PDF]](cop/slides/260918-50-CoP_KIPerWeb.pdf)
 51   | 02.10.26   | "Logprobs & Grammar-based Sampling bei Textgenerierung & -analyse" [[PDF]](cop/slides/261002-51-CoP_KIPerWeb.pdf)
-52   | 16.10.26   | "KI zur Auswertung qualitativer und quantitativer Daten nutzen"
+52   | 16.10.26   | "KI zur Auswertung qualitativer und quantitativer Daten nutzen" [[PDF]](cop/slides/261016-52-CoP_KIPerWeb.pdf)      
+53   | 16.10.26   | "Processor (Gastbeitrag Henry Herkula)"
 ...  | ...   | ...
 
 
