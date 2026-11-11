@@ -27,7 +27,7 @@ Sitzung | Datum | Thema
 51   | 02.10.26   | "Logprobs & Grammar-based Sampling bei Textgenerierung & -analyse" [[PDF]](cop/slides/261002-51-CoP_KIPerWeb.pdf)
 52   | 16.10.26   | "KI zur Auswertung qualitativer und quantitativer Daten nutzen" [[PDF]](cop/slides/261016-52-CoP_KIPerWeb.pdf)      
 53   | 30.10.26   | "Wllama - LLM-Inferenz im Webbrowser per WebAssembly" [[PDF]](cop/slides/261030-53-CoP_KIPerWeb.pdf)   
-54   | 13.11.26   | "Processor (Gastbeitrag Henry Herkula)"
+54   | 13.11.26   | "Processor" (Gastbeitrag Henry Herkula)
 55   | 27.11.26   | "Gute System Prompts"
 ...  | ...   | ...
 
